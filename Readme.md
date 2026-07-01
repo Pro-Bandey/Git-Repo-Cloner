@@ -72,9 +72,6 @@ cd Cloner
 
   ```bash
   chmod +x Run.sh
-  ```
-
-  ```bash
   ./Run.sh
   ```
 
